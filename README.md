@@ -1,7 +1,3 @@
-# Real-Estate-Business-Analytics
-Real estate business analytics dashboard on Singapore’s HDB resale market (2012–2019)
-
-
 # 🏘️ Singapore HDB Resale Market Dashboard
 
 This project presents a **real estate analytics dashboard** analyzing Singapore’s public housing (HDB) resale market from 2012 to 2019. The goal is to support data-driven pricing, investment, and policy decisions using location and property insights.
